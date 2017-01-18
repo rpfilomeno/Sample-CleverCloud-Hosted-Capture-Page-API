@@ -10,3 +10,5 @@ application via a default browser.
 
 Please Change the value for ```CURLOPT_URL => "https://domain.tld/hcp/capture.php"``` on php/generatehcp.php and
 ```--transactionKey=***REPLACE-WITH-TRANSACTION-KEY***``` on main.pas files.
+
+Git: https://github.com/rpfilomeno/Sample-CleverCloud-Hosted-Capture-Page-API.git
